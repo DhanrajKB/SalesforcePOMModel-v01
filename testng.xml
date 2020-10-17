@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Flipkart POM Test suite">
+
+	<listeners>
+		<listener class-name="com.qa.ExtentReportListener.ExtentReporter"></listener>
+	</listeners>
+
+	<test name="Flipkart POM Test suite">
+		<classes>
+			<class name="com.qa.tests.FirstToRunSetup"></class>
+			<class name="com.qa.tests.LoginTest"></class>
+			<class name="com.qa.tests.HomePageTest"></class>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

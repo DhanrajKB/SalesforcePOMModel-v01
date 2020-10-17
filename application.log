@@ -1,0 +1,12 @@
+2020-03-09 14:33:51,826 DEBUG [pool-1-thread-15 for channel id=2] ConfigurationUtils:447 - ConfigurationUtils.locate(): base is null, name is D:\workspace\SalesForcePOMModel\src\main\java\com\sfdc\qa\config\config.properties
+2020-03-09 14:33:51,831 DEBUG [pool-1-thread-15 for channel id=2] ConfigurationUtils:501 - Loading configuration from the absolute path D:\workspace\SalesForcePOMModel\src\main\java\com\sfdc\qa\config\config.properties
+2020-03-09 14:37:54,172 DEBUG [pool-1-thread-15 for channel id=2] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-03-09 14:37:54,174 DEBUG [pool-1-thread-15 for channel id=2] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-03-09 14:37:54,177 DEBUG [pool-1-thread-15 for channel id=2] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-09 14:37:54,178 DEBUG [pool-1-thread-15 for channel id=2] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-09 14:37:54,179 DEBUG [pool-1-thread-15 for channel id=2] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/dhanr/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-09 14:37:54,667 DEBUG [pool-1-thread-15 for channel id=2] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-03-09 14:37:54,668 DEBUG [pool-1-thread-15 for channel id=2] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-03-09 14:37:54,668 DEBUG [pool-1-thread-15 for channel id=2] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-09 14:37:54,669 DEBUG [pool-1-thread-15 for channel id=2] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-09 14:37:54,669 DEBUG [pool-1-thread-15 for channel id=2] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/dhanr/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
